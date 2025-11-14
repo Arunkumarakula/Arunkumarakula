@@ -12,7 +12,7 @@ AWS DevOps Engineer @ AJA Consulting Services
 ---
 
 ## 🔹 About Me
-I’m an AWS DevOps Engineer with 1 year 6 months of hands-on experience building, automating, and managing reliable infrastructure across on-prem and cloud environments (AWS & Azure).  
+I’m an AWS DevOps Engineer with 2+ years of hands-on experience building, automating, and managing reliable infrastructure across on-prem and cloud environments (AWS & Azure).  
 
 I specialize in deploying scalable systems, streamlining CI/CD pipelines, and ensuring secure, high-performance infrastructure for modern applications.  
 
