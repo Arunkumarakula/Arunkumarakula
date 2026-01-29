@@ -46,7 +46,7 @@ My focus is on automation, observability, and security across cloud platforms, l
 ---
 
 ## 💼 Career Snapshot
-### 🏢 AJA Consulting Services LLP – Junior Software Engineer (Oct 2023 – Present)
+### 🏢 AJA Consulting Services LLP – Junior Software Engineer (Dec 2022 – Present)
 - Managed AWS EC2, S3, VPC, and IAM policies for secure cloud deployments  
 - Automated infrastructure and CI/CD pipelines using Jenkins and GitHub Actions  
 - Monitored infrastructure performance with CloudWatch, Prometheus, and Grafana  
